@@ -4,7 +4,7 @@
 :hp-tags: Code, Geek
 
 
-![Normal image](//https://lh3.googleusercontent.com/sxJz0otOJPuFAgb7Q1DMVPnBI-OIEcqdx9o9IsdvcIDw=w306-h161-p-no)
+image::https://lh3.googleusercontent.com/sxJz0otOJPuFAgb7Q1DMVPnBI-OIEcqdx9o9IsdvcIDw=w306-h161-p-no[nederland]
 
 This is going to be a new test of intensive blogging. I like to write more but existing tools are distracting me from what it is about so I am trying out this one. Just short to the point stories with references and not too much distraction.
 
