@@ -13,6 +13,7 @@ The Google page discribes how to flash it but it does not work because the zip f
 
 I am using an Ubuntu with 15.04 install and all the adb tools, I downloaded the zip file from the above website and unzipped that file, moved the command prompt into that directory and did:
 
+* adb reboot bootloader
 * fastboot flash bootloader bootloader-flounder-3.44.1.0123.img
 * fastboot reboot-bootloader
 * fastboot flash recovery recovery.img
