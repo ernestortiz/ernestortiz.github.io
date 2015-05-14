@@ -1,0 +1,25 @@
+= Flashing Nexus 9 flounder
+
+
+:hp-tags: Android, tablet
+
+I bought the nexus 9 (HTC device) december last year to replace my iPad, I wanted to get away from Apple and I never regretted that choice, by the time the iPad 2 came out, no Adroid device was up to that quality and the Adam Notion Ink I bought before the iPad was a big failure. That device is now serving as a attachment to my stereo and updated to 4.1 still does a streaming job but as a wireless working device it was useless. 
+
+The Nexus 9 was not a cheap device and therefore I think not a lot of people are playing with it and or developing new roms for it so after some attempts I am back on Android 5.1.1 and using Google Factory image you can find link:https://developers.google.com/android/nexus/images[here]. If you go to link:http://forum.xda-developers.com/nexus-9/development[xda-developers] you find a few roms out there of which I tried AICP, Candy5 and some CM12.1 attempt but when it says "this is my first build. Its untested" I am not really tempted to try so when Google finally launched the factory image for 5.1.1 (much later than on any of the other Nexus devices) I flashed it again.
+
+== Howto flash
+
+The Google page discribes how to flash it but it does not work because the zip file it too large, I do not understand why Google does not update that page because it will happen to everbody but no word on that page, I guess because the page says Nexus files for Developers I guess everybody knows how to do it the proper way. I had to find out and place the procedure here:
+
+I am using an Ubuntu with 15.04 install and all the adb tools, I downloaded the zip file from the above website and unzipped that file, moved the command prompt into that directory and did:
+
+* fastboot flash bootloader bootloader-flounder-3.44.1.0123.img
+* fastboot reboot-bootloader
+* fastboot flash recovery recovery.img
+* fastboot flash boot boot.img
+* fastboot flash system system.img
+* fastboot flash vendor vendor.img
+
+Lastly, if you want, you can wipe the cache with this command – fastboot flash cache cache.img
+
+Hope this was useful and to see you soon!
