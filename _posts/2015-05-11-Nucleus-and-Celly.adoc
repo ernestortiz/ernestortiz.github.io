@@ -2,10 +2,10 @@
 
 Once you have the phone and the simcard included you put it in the office and connect it to the wifi and connect it to electricity so it is connected to Internet and to electricity.
 
-Before working with the phone we go on a computer to link:https://cel.ly/ and sign up for Celly by following what it says here:
-http://support.cel.ly/hc/en-us/articles/201148336-Celly-Setup-Guide
+Before working with the phone we go on a computer to link:https://cel.ly/[cel.ly] and sign up for Celly by following what it says 
+link:http://support.cel.ly/hc/en-us/articles/201148336-Celly-Setup-Guide[here]
 
-Once you create the celly account you switch back to your phone and on the phone you install Celly and Nucleus which you can find on Google Play, Nucleus is officially called Nucleus - SMS Hub for Celly and it is based on SMS sync build by Ushahidi (more information if you are interested http://smssync.ushahidi.com/).
+Once you create the celly account you switch back to your phone and on the phone you install Celly and Nucleus which you can find on Google Play, Nucleus is officially called Nucleus - SMS Hub for Celly and it is based on SMS sync build by Ushahidi (more information if you are interested link:http://smssync.ushahidi.com/[smssync]).
 
 After installation you go to Nucleus in the Menu and tap twice to start. It start with a screen saying: Nucleus allows you to turn your phone into a SMS gateway for Celly, enabling text messaging in places where Celly's short code (23559) doesn't work. Warning: this app will intercept all of your texts and forward them to Celly – an unlimited texting plan is highly recommended.
 
@@ -19,6 +19,6 @@ When you have done that go to the Celly app and log in with the account you crea
 
 If you press stop it will stop and the button is green with start again. So we press start again and the phone is ready to send and receive messages.
 
-The communication itself will depend on a number of things, but to start you can have a look at:
-http://support.cel.ly/hc/en-us/articles/201220243-Sign-up-for-Celly-SMS-in-5-Easy-Steps
+The communication itself will depend on a number of things, but to start you can have a look at link:http://support.cel.ly/hc/en-us/articles/201220243-Sign-up-for-Celly-SMS-in-5-Easy-Steps[this]
+
 
