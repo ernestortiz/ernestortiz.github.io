@@ -1,8 +1,8 @@
 = Nucleus and Celly
 
-Once you have the phone and the simcard included you put it in the MC office and connect it to the MC wifi and connect it to electricity so it is connected to Internet and to electricity.
+Once you have the phone and the simcard included you put it in the office and connect it to the wifi and connect it to electricity so it is connected to Internet and to electricity.
 
-Before working with the phone we go on a computer to https://cel.ly/ and sign up for Celly by following what it says here:
+Before working with the phone we go on a computer to link:https://cel.ly/ and sign up for Celly by following what it says here:
 http://support.cel.ly/hc/en-us/articles/201148336-Celly-Setup-Guide
 
 Once you create the celly account you switch back to your phone and on the phone you install Celly and Nucleus which you can find on Google Play, Nucleus is officially called Nucleus - SMS Hub for Celly and it is based on SMS sync build by Ushahidi (more information if you are interested http://smssync.ushahidi.com/).
