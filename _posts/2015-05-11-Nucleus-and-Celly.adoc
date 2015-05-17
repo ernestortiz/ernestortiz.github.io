@@ -1,3 +1,24 @@
-= non android phones
+= Nucleus and Celly
 
-do we need some text here?
+Once you have the phone and the simcard included you put it in the MC office and connect it to the MC wifi and connect it to electricity so it is connected to Internet and to electricity.
+
+Before working with the phone we go on a computer to https://cel.ly/ and sign up for Celly by following what it says here:
+http://support.cel.ly/hc/en-us/articles/201148336-Celly-Setup-Guide
+
+Once you create the celly account you switch back to your phone and on the phone you install Celly and Nucleus which you can find on Google Play, Nucleus is officially called Nucleus - SMS Hub for Celly and it is based on SMS sync build by Ushahidi (more information if you are interested http://smssync.ushahidi.com/).
+
+After installation you go to Nucleus in the Menu and tap twice to start. It start with a screen saying: Nucleus allows you to turn your phone into a SMS gateway for Celly, enabling text messaging in places where Celly's short code (23559) doesn't work. Warning: this app will intercept all of your texts and forward them to Celly – an unlimited texting plan is highly recommended.
+
+That is why I suggest the MaxisOnePlan with unlimited SMS to all networks. I also suggest a unpersonalized phone because Nucleus will become the default SMS app.
+
+On top of that message is a green button and it says: start
+
+Before you press start you go to settings of the device and under the first set you find more (below Data etc), press more and find Standard SMS-app and you click on it and select Nucleus for Celly.
+
+When you have done that go to the Celly app and log in with the account you created in the first step, than you go back to Nucleus and you press start, it will check if you are logged in and it will give you this:
+
+If you press stop it will stop and the button is green with start again. So we press start again and the phone is ready to send and receive messages.
+
+The communication itself will depend on a number of things, but to start you can have a look at:
+http://support.cel.ly/hc/en-us/articles/201220243-Sign-up-for-Celly-SMS-in-5-Easy-Steps
+
